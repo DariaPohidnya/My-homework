@@ -1,0 +1,54 @@
+.title_selectors{
+    color: #f10606;
+}
+.selectors_list{
+    color: rgb(42, 0, 229);
+}
+
+span{
+    color: black;
+}
+.examples{
+    color: #f10606;
+}
+
+p{
+    color: #9000ff;
+}
+
+a{
+    color: blue;
+}
+
+#Example_3{
+    color: aqua;
+}
+
+#Example_4{
+    color: rgb(6, 229, 14);
+}
+
+.Example_5{
+    color: rgb(0, 0, 0);
+    background-color: #ffee00;
+}
+
+.Example_6{
+    color: #ffa200;
+}
+
+.Example7.Example7{
+    color: #f10606;
+}
+
+.Example8.Example8{
+    color: #da09f1a9;
+}
+
+footer p{
+    color: rgb(22, 11, 233);
+}
+
+footer span{
+    color: aqua;
+}
