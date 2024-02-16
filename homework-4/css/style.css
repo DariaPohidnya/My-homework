@@ -1,10 +1,35 @@
-/* All cards */
 .cards {
-    text-align: center;
+text-align: center;
+font-size: 0;
+width: 50%;
 
 }
 
 .block_item {
-    display: inline;
-    border: 3px solid; 
+width: 200px;
+height: 226px;
+background-color: #efebeb;
+display: inline-block;
+margin: 10px 10px 10px 10px;
+
+}
+
+.title {
+font-size: 18px;
+}
+
+.text {
+font-size: 14px;
+}
+
+img {
+max-width: 100%;
+height: auto;
+margin-right: 20px;
+margin-left: 20px;
+}
+
+.img_box img{
+width: 130px;
+height: 130px;
 }
