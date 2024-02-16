@@ -1,0 +1,10 @@
+/* All cards */
+.cards {
+    text-align: center;
+
+}
+
+.block_item {
+    display: inline;
+    border: 3px solid; 
+}
