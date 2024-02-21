@@ -1,8 +1,9 @@
 .cards {
 text-align: center;
 font-size: 0;
-width: 50%;
-
+width: 100%;
+max-width: 660px;
+margin: auto;
 }
 
 .block_item {
